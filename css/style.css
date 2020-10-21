@@ -169,7 +169,7 @@ header{
   display: flex;
   justify-content: center;
   align-items: center;
-  flex-direction: column;
+
 }
 
 .nav_links{
@@ -208,6 +208,7 @@ header{
     /*Your code here again.*/  
     display: flex;
     justify-content: space-between;
+    flex-direction: row;
   }
 
   .nav_links{
