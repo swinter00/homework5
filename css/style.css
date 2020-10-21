@@ -233,15 +233,16 @@ header{
   }
 
   .pricing {
-    align-content: flex-start;
+    display: flex;
+    align-items: flex-start;
   }
 
   .gallery {
-    visibility: hidden;
+    display: none;
   }
 
   #gallery {
-    visibility: hidden;
+    display: none;
   }
 }
 
